@@ -6,7 +6,7 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-https://responsive-portfolio-one-mauve.vercel.app/
+https://sahil-chawade.vercel.app/
 
 ![preview img](assets/img/preview1.png)
 
